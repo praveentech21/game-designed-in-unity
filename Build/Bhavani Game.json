@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project_34",
+"dataUrl": "Bhavani Game.data.unityweb",
+"wasmCodeUrl": "Bhavani Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bhavani Game.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
